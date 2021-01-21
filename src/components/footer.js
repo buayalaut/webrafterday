@@ -8,11 +8,8 @@ const Footer = ({ siteTitle }) => (
     </span>
     <span className="block">
       <small>
-        {` </>`} Powered by {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a> and{` `}
-        <a href="https://github.com/wangonya/the-plain-gatsby">
-          The Plain Gatsby starter
-        </a>
+        Built with {` `}
+        <a href="https://www.gatsbyjs.org">Gatsby</a>
       </small>
     </span>
   </div>
