@@ -9,10 +9,10 @@ const Header = ({ avatar }) => (
       {({ location }) => {
         return location.pathname == "/" ? (
           <div>
-            <Link to="/about/">
               <img src={avatar} className="logo-avatar" />
-            </Link>
-            <span className="logo-prompt code">About the Author</span>
+          <Link to="/about/">
+            <p>About the Author</p>
+          </Link>
           </div>
         ) : (
           <div>
