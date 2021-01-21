@@ -21,6 +21,7 @@ const Header = ({ avatar }) => (
             </Link>
             <span className="logo-prompt code">Back Home</span>
           </div>
+          <p><a href="/about/">About Me</a></p>
         )
       }}
     </Location>
