@@ -46,7 +46,7 @@ ___
 
 # Timeline Report
 
-> * 10 Juni, 2019 = Mengirimkan laporan ke emaill info@pmi.or.id & hrd@pmi.or.id (no respons)
-> * 12 Juni, 2019 = Mendapatkan sebuah pesan dari email developer website pmi.or.id + BUG di patch
+- 10 Juni, 2019 = Mengirimkan laporan ke email info@pmi.or.id & hrd@pmi.or.id (no respons)
+- 12 Juni, 2019 = Mendapatkan sebuah pesan dari email developer website pmi.or.id + BUG di patch
 
 ![ ](https://miro.medium.com/max/10000/1*5xT5xbHl0k2AKcPpNOGzZw.png)
