@@ -13,7 +13,6 @@ const Header = ({ avatar }) => (
             </Link>
             <span className="logo-prompt code">About the Author</span>
           </div>
-          <p><a href="/about/">About Me</a></p>
         ) : (
           <div>
             <Link to="/">
@@ -21,7 +20,6 @@ const Header = ({ avatar }) => (
             </Link>
             <span className="logo-prompt code">Back Home</span>
           </div>
-          <p><a href="/about/">About Me</a></p>
         )
       }}
     </Location>
