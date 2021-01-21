@@ -1,8 +1,6 @@
 ---
 title: About
 ---
-Hello.
+Hai.
 
-This will be your About page. Anything about you
-
-**Less is more..**
+Ini adalah page About
