@@ -3,7 +3,7 @@ module.exports = {
     title: `Rafterday.net - Sebuah Catatan`,
     description: `-`,
     author: `@buayalaut`,
-    avatar: `http://dandyrafli.us/dev/me.png`,
+    avatar: `me.png`,
     siteUrl: `https://rafterday.net`,
   },
   plugins: [
