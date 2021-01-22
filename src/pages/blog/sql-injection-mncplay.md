@@ -65,5 +65,5 @@ ___
 Mungkin cukup sampai disini saja write up sederhana ini, jika ada salah dalam penulisan kata, mohon di koreksi
 Jangan lupa di share yaa, agar saya semangat untuk share write up BUG lagi hehe, sampai jumpa!
 
-Contact me at [About me](/about/}
+Contact me at [About me](/about/)
 
