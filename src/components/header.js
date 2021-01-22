@@ -12,14 +12,14 @@ const Header = ({ avatar }) => (
             <Link to="/about/">
               <img src={avatar} className="logo-avatar" />
             </Link>
-            <span className="logo-prompt code">About the Author</span>
+            <span>About the Author</span>
           </div>
         ) : (
           <div>
             <Link to="/">
               <img src={avatar} className="logo-avatar" />
             </Link>
-            <span className="logo-prompt code">Back Home</span>
+            <span>Back Home</span>
           </div>
         )
       }}
