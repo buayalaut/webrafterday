@@ -4,7 +4,9 @@ import React from "react"
 import { Location } from "@reach/router"
 
 const Header = ({ avatar }) => (
-  <center><span><a href="/about/">About Me</a></span></center>
+  <nav class="main-nav">
+    <a class="cta" href="/about/">About Me</a>
+  </nav>
   <header className="logo">
     <Location>
       {({ location }) => {
