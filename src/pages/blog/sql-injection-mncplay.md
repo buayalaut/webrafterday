@@ -59,7 +59,9 @@ Beserta informasi rahasia dan sensitif pelanggan lainnya.
 ___
 
 ## Timeline Report
+
 - 26 September 2020, Mengirimkan laporan ke email ccare.mncplay@mncgroup.com
+
 - 28 September 2020, Mengirimkan laporan ke email bos.mncplaymedia@mncgroup.com
 
 Mungkin cukup sampai disini saja write up sederhana ini, jika ada salah dalam penulisan kata, mohon di koreksi
