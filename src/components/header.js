@@ -10,14 +10,14 @@ const Header = ({ avatar }) => (
         return location.pathname == "/" ? (
           <div>
             <Link to="/about/">
-              <span>About the Author
+              <span>About Me
           </span>
             </Link>
           </div>
         ) : (
           <div>
             <Link to="/">
-              <span>About the Author
+              <span>Back Home
           </span>
             </Link>
           </div>
