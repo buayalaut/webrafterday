@@ -4,7 +4,7 @@ import React from "react"
 import { Location } from "@reach/router"
 
 const Header = ({ avatar }) => (
-  <header className="logo">
+  <header>
     <Location>
       {({ location }) => {
         return location.pathname == "/" ? (
