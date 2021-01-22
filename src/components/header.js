@@ -26,7 +26,6 @@ const Header = ({ avatar }) => (
     </Location>
   </header>
 )
-<span><a href="/about">About Me</a></span>
 
 Header.propTypes = {
   avatar: PropTypes.string,
