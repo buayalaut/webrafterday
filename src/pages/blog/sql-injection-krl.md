@@ -54,7 +54,7 @@ ___
 
 ## Timeline Report
 
-> 4 Agustus, 2020 send report to email commuter.care@krl.co.id
+- 4 Agustus, 2020 send report to email commuter.care@krl.co.id
 
 Jangan lupa di share yaa, agar saya bisa untuk memberikan write up sederhana lagi. see you!
 
