@@ -1,5 +1,5 @@
 ---
-title: SQL Injection at Subdmain alfamartku.com
+title: SQL Injection at Subdomain alfamartku.com
 date: 2020-09-26
 ---
 
