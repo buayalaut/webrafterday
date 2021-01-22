@@ -4,8 +4,6 @@ import React from "react"
 import { Location } from "@reach/router"
 
 const Header = ({ avatar }) => (
-  <nav class="main-nav">
-    <a class="cta" href="/about/">About Me</a></nav>
   <header className="logo">
     <Location>
       {({ location }) => {
@@ -27,6 +25,7 @@ const Header = ({ avatar }) => (
       }}
     </Location>
   </header>
+<a class="cta" href="/about/">About Me</a>
 )
 
 Header.propTypes = {
