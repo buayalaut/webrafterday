@@ -4,6 +4,7 @@ import React from "react"
 import { Location } from "@reach/router"
 
 const Header = ({ avatar }) => (
+  <center><span><a href="/about/">About Me</a></span></center>
   <header className="logo">
     <Location>
       {({ location }) => {
@@ -14,7 +15,6 @@ const Header = ({ avatar }) => (
             </Link>
             <span className="logo-prompt code">About the Author</span>
           </div>
-          <br><span><a href="/about/">About Me</a></span>
         ) : (
           <div>
             <Link to="/">
@@ -22,7 +22,6 @@ const Header = ({ avatar }) => (
             </Link>
             <span className="logo-prompt code">Back Home</span>
           </div>
-          <br><span><a href="/about/">About Me</a></span>
         )
       }}
     </Location>
