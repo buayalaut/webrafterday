@@ -65,7 +65,9 @@ ___
 ## Timeline Report
 
 + 27 Juli, 2020 = Send report via email humas@iconpln.co.id
+
 + 28 Juli, 2020 = Send report via email bantuan70@bssn.go.id
+
 + 8 Agustus, 2020 = Send report via email pln123@pln.co.id
 
 Sekian write up dari saya ini, mohon maaf apabila ada salah dalam penulisan kata. jangan lupa di share yaa, agar saya semangat untuk menulis write up kembali.
