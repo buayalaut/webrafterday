@@ -1,6 +1,6 @@
 ---
-Title: SQL Injection at Subdomain indomaret.co.id
-Date: 2020-01-13
+title: SQL Injection at Subdomain indomaret.co.id
+date: 2020-01-13
 ---
 
 Sudah lama saya tidak menulis write up lagi yaa haha.
