@@ -3,6 +3,7 @@ import PropTypes from "prop-types"
 
 const Footer = ({ siteTitle }) => (
   <div className="footer">
+  <span><a href="/about/">About Me</a></span>
     <span className="block">
       &copy; {new Date().getFullYear()} Rafterday.net
     </span>
