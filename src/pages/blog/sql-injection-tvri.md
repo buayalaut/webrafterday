@@ -1,5 +1,5 @@
 ---
-title: SQL Injection at Subdomain tvri.go.id
+title: SQL Injection at Subdomain tvri.go.ic
 date: 2021-01-07
 ---
 
