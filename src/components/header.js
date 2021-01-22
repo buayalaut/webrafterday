@@ -5,8 +5,7 @@ import { Location } from "@reach/router"
 
 const Header = ({ avatar }) => (
   <nav class="main-nav">
-    <a class="cta" href="/about/">About Me</a>
-  </nav>
+    <a class="cta" href="/about/">About Me</a></nav>
   <header className="logo">
     <Location>
       {({ location }) => {
