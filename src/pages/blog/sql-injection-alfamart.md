@@ -62,6 +62,7 @@ Dan usersnya adalah
 ## Timeline Report
 
 - 19 Juli 2020, Send report to email sahabat_alfamart@sat.co.id
+
 - 25 Juli 2020, Send report to email corsec@sat.co.id
 
 Mungkin sampai disini saja Write up sederhana dari saya, mohon maaf apabila ada salah dalam penulisan kata.
