@@ -32,7 +32,7 @@ Dan ini informasi sensitif seperti username dan password adminnya
 
 ## Timeline Report
 
-* 27 Oktober 2019 = Send report via email kontak@indomaret.co.id
+- 27 Oktober 2019 = Send report via email kontak@indomaret.co.id
 
 Sekian write up dari saya ini, Mohon maaf apabila ada salah penulisan kata, jangan lupa untuk di share yaa :D
 
