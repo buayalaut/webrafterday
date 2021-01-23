@@ -3,8 +3,11 @@ title: About Me
 ---
 Halo.
 
-Saya seorang Mahasiswa yang mempunyai ketertarikan di bidang Cyber Security dan Website Security. sebelumnya website ini menggunakan CMS Wordpress, lalu saya cek page speed nya di Google mendapatkan skor 60%, skor yang sangat kecil bukan? ya betul. maka dari itu saya memilih untuk memakai [Gatsbyjs](https://gatsbyjs.com) dan skor saat ini adalah 99% Page Speed.
+Saya seorang Mahasiswa yang mempunyai ketertarikan di bidang Cyber Security dan Website Security, website [rafterday.net](https://rafterday.net) isinya adalah semua tulisan/write up saya selama saya menjadi BUG Hunter.
+
+Sebelumnya website ini menggunakan CMS Wordpress, tetapi saya cek kok Page Speed Load nya lama ya? terasa berat sekali loadingnya, padahal PING saya 15ms.
+Lalu saya cek Page Speed nya di [Google](https://developers.google.com/speed/pagespeed/insights/) mendapatkan skor 60%, skor yang sangat kecil bukan? ya betul. maka dari itu saya memilih untuk memakai [Gatsbyjs](https://gatsbyjs.com) dan skor saat ini adalah 97% Page Speed, masih lumayan lah ya haha.
 
 ___
 
-Oh ya untuk info selengkapnya tentang saya ada di website [buayalaut.co](https://buayalaut.co)
+Untuk info selengkapnya tentang saya ada di website [buayalaut.co](https://buayalaut.co)
