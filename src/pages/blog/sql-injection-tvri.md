@@ -43,7 +43,7 @@ ___
 
 Saya berpikir sejenak, “database rundown??, berarti beda website??”. saya berinisiatif bahwa rundown adalah subdomainnya, maka saya mencoba mengakses http://rundown.tvri.go.id, ini dia hasilnya
 
-![](https://miro.medium.com/max/700/0*Sb7aVeSr7xFMEcW3.jpg)
+![](/src/pages/blog/tvri.png)
 
 Benar saja dugaan saya….. itu adalah sebuah subdomain, berarti dapat saya simpulkan database website http://rundown.tvri.go.id berada di ****.tvri.go.id
 
