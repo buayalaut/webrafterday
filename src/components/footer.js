@@ -9,7 +9,7 @@ const Footer = ({ siteTitle }) => (
     <span className="block">
       <small>
         Built with {` `}
-        <a href="https://www.gatsbyjs.com">Gatsbyjs</a>
+        <a href="https://www.gatsbyjs.com" target="_blank">Gatsbyjs</a>
       </small>
     </span>
   </div>
