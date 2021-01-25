@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Rafterday.net - Sebuah Catatan`,
-    description: `-`,
+    title: `rafterday.net`,
+    description: `Website pribadi yang isinya catatan tidak jelas`,
     author: `@buayalaut`,
     avatar: `https://avatars0.githubusercontent.com/u/45431354?s=460&v=4`,
     siteUrl: `https://rafterday.net`,
