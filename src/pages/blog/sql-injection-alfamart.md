@@ -1,6 +1,6 @@
 ---
 title: SQL Injection at Subdomain alfamartku.com
-date: 2020-09-26
+date: 2020-04-26
 ---
 
 ![ ](https://miro.medium.com/max/2400/1*wSc1Y15rXis5ct8_hf3Q6A.jpeg)
