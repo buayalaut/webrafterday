@@ -3,7 +3,7 @@ title: SQL Injection at Subdomain tvri.go.id
 date: 2021-01-07
 ---
 
-![](tvri.png)
+![](https://miro.medium.com/max/14000/1*z2ycWiANWQbreVjLBfJYlw.png)
 
 Halo saya Dandy, kali ini saya mau share write up Vulnerability SQL Injection di subdomain website Televisi Republik Indonesia http://tvri.go.id
 Sebenarnya BUG ini sudah saya temukan dari tahun 2020, tepatnya di bulan Juni
@@ -43,7 +43,7 @@ ___
 
 Saya berpikir sejenak, “database rundown??, berarti beda website??”. saya berinisiatif bahwa rundown adalah subdomainnya, maka saya mencoba mengakses http://rundown.tvri.go.id, ini dia hasilnya
 
-![](${__dirname}/src/pages/blog/tvri.png)
+![](https://miro.medium.com/max/20000/0*Sb7aVeSr7xFMEcW3.jpg)
 
 Benar saja dugaan saya….. itu adalah sebuah subdomain, berarti dapat saya simpulkan database website http://rundown.tvri.go.id berada di ****.tvri.go.id
 
