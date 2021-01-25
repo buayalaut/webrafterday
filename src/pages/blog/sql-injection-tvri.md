@@ -3,7 +3,7 @@ title: SQL Injection at Subdomain tvri.go.id
 date: 2021-01-07
 ---
 
-![](https://miro.medium.com/proxy/1*z2ycWiANWQbreVjLBfJYlw.png)
+![](tvri.png)
 
 Halo saya Dandy, kali ini saya mau share write up Vulnerability SQL Injection di subdomain website Televisi Republik Indonesia http://tvri.go.id
 Sebenarnya BUG ini sudah saya temukan dari tahun 2020, tepatnya di bulan Juni
