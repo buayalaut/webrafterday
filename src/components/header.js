@@ -8,17 +8,11 @@ const Header = ({ avatar }) => (
     <Location>
       {({ location }) => {
         return location.pathname == "/" ? (
-          <div><center>
+          <div>
             <Link to="/about/">
               <span>About Me
           </span>
-            </Link></center>
-          <div>
-            <Link to="/qr-code/">
-              <span>QR Code
-          </span>
             </Link>
-          </div>
           </div>
         ) : (
           <div>
