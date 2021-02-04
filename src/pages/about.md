@@ -10,3 +10,7 @@ Sebelumnya website ini menggunakan CMS Wordpress, tetapi sangat berat sekali loa
 ___
 
 Untuk info selengkapnya tentang saya ada di website [buayalaut.co](https://buayalaut.co)
+
+QR Code
+
+![](/src/pages/qrcode.png)
