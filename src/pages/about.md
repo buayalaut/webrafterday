@@ -13,4 +13,4 @@ Untuk info selengkapnya tentang saya ada di website [buayalaut.co](https://buaya
 
 QR Code
 
-![](/src/pages/qrcode.png)
+![](qrcode.png)
