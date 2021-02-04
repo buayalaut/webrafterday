@@ -13,7 +13,7 @@ const Header = ({ avatar }) => (
               <span>About Me
           </span></Link>
           <Link to="/qr-code/">
-              <span>QR Code
+              <span> QR Code
           </span>
             </Link>
           </div>
