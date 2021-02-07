@@ -7,7 +7,7 @@ Sebelumnya website ini menggunakan CMS Wordpress, tetapi sangat berat sekali loa
 
 Beberapa penghargaan yang saya dapatkan berupa Sertifikat, Hall Of Fame, dan uang
 
-* E-Sertifikat Badan Siber dan Sandi Negara yang valid dan sudah di tandatangani secara elektronik
+* E-Sertifikat Voluntary Vulnerability Disclosure Program dari Badan Siber dan Sandi Negara yang valid dan sudah di tandatangani secara elektronik
 ![](https://buayalaut.co/images/sertif.jpg)
 
 * Reward berupa uang karena telah melaporkan kerentanan SQL Injection pada web API salah satu akun Bot di Line
