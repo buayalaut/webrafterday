@@ -22,6 +22,6 @@ ___
 
 Website personal saya ada di [buayalaut.co](https://buayalaut.co)
 
-QR Code website rafterday.net
+QR Code website ![rafterday.net](https://rafterday.net)
 
 ![](https://buayalaut.co/images/qrcode.png)
