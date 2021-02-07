@@ -8,14 +8,20 @@ Sebelumnya website ini menggunakan CMS Wordpress, tetapi sangat berat sekali loa
 Beberapa penghargaan yang saya dapatkan berupa Sertifikat, Hall Of Fame, dan uang
 
 * E-Sertifikat Badan Siber dan Sandi Negara yang valid dan sudah di tandatangani secara elektronik
+![](https://buayalaut.co/images/sertif.jpg)
+
 * Reward berupa uang karena telah melaporkan kerentanan SQL Injection pada web API salah satu akun Bot di Line
+![](https://buayalaut.co/images/bot.jpg)
+
 * Reward berupa uang karena telah melaporkan kerentanan SQL Injection pada web API salah satu Aplikasi di Android yang sudah di download lebih dari 10 Juta orang
-* Hall Of Fame Domino's Pizza Responsible Disclosure, karena telah melaporkan kerentanan SQL Injection pada salah website Domino's Pizza
+![](https://buayalaut.co/images/apk.jpg)
+
+* Hall Of Fame Domino's Pizza Responsible Disclosure, karena telah melaporkan kerentanan SQL Injection pada website Domino's Pizza (Soon/in Process)
 
 ___
 
-Untuk info selengkapnya tentang saya ada di website [buayalaut.co](https://buayalaut.co)
+Website personal saya ada di [buayalaut.co](https://buayalaut.co)
 
-QR Code
+QR Code website rafterday.net
 
 ![](https://buayalaut.co/images/qrcode.png)
