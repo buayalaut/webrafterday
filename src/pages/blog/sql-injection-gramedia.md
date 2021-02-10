@@ -7,21 +7,21 @@ Halo semuanya, Kali ini saya ingin share write up SQL Injection di subdomain gra
 
 Penemuan ini awalnya bermula dari saya iseng - iseng melakukan recon subdomain dan mendapatkan sub bukusekolah.gramedia.com
 lalu saya ke page register
-[](https://buayalaut.co/files/Screenshot_90.png)
+![](https://buayalaut.co/files/Screenshot_90.png)
 
 Ketika saya ingin melakukan register, saya tertarik pada kolom select Provinsi. karena ketika saya memilih provinsi A maka di kolom Kabupaten/Kota menampilkan data - data yang sesuai dengan di kolom A, seperti ini
-[](https://buayalaut.co/files/Screenshot_91.png)
+![](https://buayalaut.co/files/Screenshot_91.png)
 
 Lalu saya membuka menu Network pada Inspect Element guna merekam semua request headers yang sedang saya buka, dan saya sudah mendapatkan request url dan post data nya
-[](https://buayalaut.co/files/Screenshot_92.png)
+![](https://buayalaut.co/files/Screenshot_92.png)
 
 ___
 
 Selanjutnya saya melakukan cek di hackbar pada mozilla/cyberfox, maka respons nya adalah
-[](https://buayalaut.co/files/Screenshot_93.png)
+![](https://buayalaut.co/files/Screenshot_93.png)
 
 Lalu saya coba cek dengan menambahkan single quote pada parameter provinsi=, respons nya data-data yang sebelumnya hilang
-[](https://buayalaut.co/files/Screenshot_94.png)
+![](https://buayalaut.co/files/Screenshot_94.png)
 
 Lalu saya coba menambahkan string balance -- -, guna memeriksa lebih lanjut apakah vulnerable terhadap SQLi atau tidak, respons nya adalah sama seperti tadi menambahkan single quote.
 Lalu karena saya pantang menyerah, maka saya mencoba merubah single quote menjadi double quote. maka respons webnya adalah menjadi blank page, Damn!
@@ -32,10 +32,10 @@ Nah disini saya bisa menyimpulkan bahwa ini vulnerable terhadap SQLi (tidak semu
 ___
 
 Selanjutnya saya mencoba melakukan scanning di SQLMap, dan hasilnya adalah saya mendapatkan 8 Database dari website tersebut
-[](https://buayalaut.co/files/Screenshot_95.png)
+![](https://buayalaut.co/files/Screenshot_95.png)
 
 Dan saya juga mendapatkan 6 Users dari website tersebut
-[](https://buayalaut.co/files/Screenshot_96.png)
+![](https://buayalaut.co/files/Screenshot_96.png)
 
 ___
 
