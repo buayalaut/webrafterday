@@ -24,8 +24,12 @@ Lalu saya coba cek dengan menambahkan single quote pada parameter provinsi=, res
 ![](https://buayalaut.co/files/Screenshot_94.png)
 
 Lalu saya coba menambahkan string balance -- -, guna memeriksa lebih lanjut apakah vulnerable terhadap SQLi atau tidak, respons nya adalah sama seperti tadi menambahkan single quote.
+
 Lalu karena saya pantang menyerah, maka saya mencoba merubah single quote menjadi double quote. maka respons webnya adalah menjadi blank page, Damn!
+![](https://buayalaut.co/files/Screenshot_97.png)
+
 dan setelah itu saya mencoba menambahkan string balance lagi, ternyata responsnya menampilkan data - data normal
+![](https://buayalaut.co/files/Screenshot_98.png)
 
 Nah disini saya bisa menyimpulkan bahwa ini vulnerable terhadap SQLi (tidak semua vuln, tetapi kemungkinan iya)
 
