@@ -18,9 +18,9 @@ Beberapa penghargaan yang saya dapatkan berupa Sertifikat, Hall Of Fame, dan ber
 
 ___
 
-Website personal saya ada di [buayalaut.co](https://buayalaut.co)
+Website pribadi saya ada di [buayalaut.co](https://buayalaut.co) dan [dandyrafli.us](http://dandyrafli.us)
 
-Kontak saya
+Kontak saya ada di bawah ini
 - [Linkedin](https://linkedin.com/in/dandyrafliansyah)
 
 - [Telegram](https://t.me/dandyrfl)
