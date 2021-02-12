@@ -21,8 +21,4 @@ ___
 Website pribadi saya ada di [buayalaut.co](https://buayalaut.co) dan [dandyrafli.us](http://dandyrafli.us)
 
 Kontak saya ada di bawah ini
-- [Linkedin](https://linkedin.com/in/dandyrafliansyah)
-
-- [Telegram](https://t.me/dandyrfl)
-
-- [Email](mailto:dandyrafliansyah40@gmail.com)
+- [Linkedin](https://linkedin.com/in/dandyrafliansyah) [Telegram](https://t.me/dandyrfl) [Email](mailto:dandyrafliansyah40@gmail.com)
