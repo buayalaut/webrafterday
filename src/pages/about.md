@@ -3,9 +3,7 @@ title: About Me
 ---
 Halo, saya adalah seorang Mahasiswa yang mempunyai ketertarikan di bidang Cyber Security dan Website Security Pentesting dari tahun 2017 hingga sekarang. website [rafterday.net](https://rafterday.net) isinya adalah semua tulisan/write up saya selama saya menjadi BUG Hunter.
 
-Sebelumnya website ini menggunakan CMS Wordpress, tetapi sangat berat sekali loadingnya. lalu saya coba cek Page Speed di [Google Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/) mendapatkan skor 60%, skor yang sangat kecil bukan? ya betul. maka dari itu saya memilih untuk memakai [GatsbyJs](https://gatsbyjs.com) dan skor saat ini adalah 98% Page Speed, masih lumayan lah ya haha.
-
-Beberapa penghargaan yang saya dapatkan berupa Sertifikat, Hall Of Fame, dan uang
+Beberapa penghargaan yang saya dapatkan berupa Sertifikat, Hall Of Fame, dan berupa Uang *(ada sebagian yang tidak bisa saya publikasikan karena alasan Private Bounty)*
 
 * E-Sertifikat Voluntary Vulnerability Disclosure Program dari Badan Siber dan Sandi Negara yang valid dan sudah di tandatangani secara elektronik
 ![](https://buayalaut.co/images/sertif.jpg)
