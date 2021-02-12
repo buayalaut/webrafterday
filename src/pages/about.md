@@ -22,6 +22,7 @@ ___
 
 Website personal saya ada di [buayalaut.co](https://buayalaut.co)
 
-QR Code website [rafterday.net](https://rafterday.net)
-
-![](https://buayalaut.co/images/qrcode.png)
+Kontak saya ada di bawah ini
+[Linkedin](https://linkedin.com/in/dandyrafliansyah)
+[Telegram](https://t.me/dandyrfl)
+[Email](mailto:dandyrafliansyah40@gmail.com)
