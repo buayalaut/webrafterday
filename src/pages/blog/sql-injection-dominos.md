@@ -52,4 +52,16 @@ ___
 
 Timeline Report
 
-* 
+* 03 Februari 2021, Membuat Laporan di [dominos.responsibledisclosure.com](https://dominos.responsibledisclosure.com)
+
+* 05 Februari 2021, BUG Dinyatakan Valid oleh Pihak Domino's dan dalam proses patch oleh Team terkait
+
+* 08 Februari 2021, Mendapatkan Email dari pihak Domino's Pizza Indonesia bahwa BUG sudah di perbaiki dan mengucapkan Terima Kasih karena suda Follow Up Vulnerability tersebut
+![](https://buayalaut.co/files/Screenshot_110.png)
+
+* 12 Februari 2021, Pihak Domino's Pusat mengkonfirmasi bahwa Client mereka sudah memperbaiki BUG Tersebut, dan meminta saya untuk Screenshot update BUG bahwa sudah di Patch
+![](https://buayalaut.co/files/Screenshot_111.png)
+
+* 15 Februari 2021, Pihak Domino's Pusat meminta link profile Linkedin atau Twitter guna untuk menambahkan ke halaman Acknowledgements
+
+* (Dandy Rafliansyah) - [Acknowledgements](https://dominos.responsibledisclosure.com/hc/en-us/articles/360001378594-Acknowledgments)
