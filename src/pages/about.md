@@ -14,7 +14,8 @@ Beberapa penghargaan yang saya dapatkan berupa Sertifikat, Hall Of Fame, dan ber
 * Reward berupa uang karena telah melaporkan kerentanan SQL Injection pada web API salah satu Aplikasi di Android yang sudah di download lebih dari 10 Juta orang
 ![](https://buayalaut.co/images/apk.jpg)
 
-* Hall Of Fame Domino's Pizza Responsible Disclosure, karena telah melaporkan kerentanan SQL Injection pada website Domino's Pizza (Soon/in Progress)
+* Hall Of Fame Domino's Pizza Responsible Disclosure, karena telah melaporkan kerentanan SQL Injection pada website Domino's Pizza - (Dandy Rafliansyah) [dominos.responsibledisclosure.com](https://dominos.responsibledisclosure.com/hc/en-us/articles/360001378594-Acknowledgments)
+![](https://buayalaut.co/files/Screenshot_108.png)
 
 ___
 
