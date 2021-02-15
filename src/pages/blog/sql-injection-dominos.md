@@ -6,6 +6,7 @@ date: 2021-02-03
 ![](https://buayalaut.co/files/Screenshot_109.png)
 
 Halo, kali ini saya akan membagikan write up sederhana SQL Injection di [bi.dominos.co.id](https://bi.dominos.co.id) tepatnya pada form login
+
 Reward dari penemuan ini adalah saya mendapatkan Hall Of Fame di [dominos.responsibledisclosure.com](https://dominos.responsibledisclosure.com/hc/en-us/articles/360001378594-Acknowledgments)
 (Dandy Rafliansyah)
 
@@ -39,4 +40,16 @@ Lalu saya melakukan scan di SQL Map dengan command
 sqlmap -u https://bi.dominos.co.id/login/index.php --data="uname=12&psw=12&appUri=/p/7639/" --level=3 --risk=3 --dbs
 ```
 
-Hasil dari scannya adalah
+Hasil dari scannya adalah saya mendapatkan 8 Database
+![](https://buayalaut.co/files/photo_2021-02-15_23-32-24.jpg)
+
+Dan 14 Database Management System User
+![](https://buayalaut.co/files/photo_2021-02-15_23-34-32.jpg)
+
+Beserta informasi sensitif lainnya yang tidak bisa saya Screenshot karena Privacy pihak Domino's
+
+___
+
+Timeline Report
+
+* 
