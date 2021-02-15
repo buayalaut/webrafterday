@@ -1,6 +1,6 @@
 ---
 title: SQL Injection at Subdomain dominos.co.id - Hall Of Fame
-date: 2020-03-02
+date: 2021-02-03
 ---
 
 ![](https://buayalaut.co/files/Screenshot_109.png)
