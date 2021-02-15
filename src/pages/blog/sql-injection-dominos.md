@@ -65,3 +65,4 @@ Timeline Report
 * 15 Februari 2021, Pihak Domino's Pusat meminta link profile Linkedin atau Twitter guna untuk menambahkan ke halaman Acknowledgements
 
 * (Dandy Rafliansyah) - [Acknowledgements](https://dominos.responsibledisclosure.com/hc/en-us/articles/360001378594-Acknowledgments)
+![](https://buayalaut.co/files/Screenshot_112.png)
