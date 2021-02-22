@@ -2,8 +2,9 @@
 title: About Me
 ---
 Halo, saya adalah seorang Mahasiswa yang mempunyai ketertarikan di bidang Cyber Security dan Website Security Pentesting dari tahun 2017 hingga sekarang. website [rafterday.net](https://rafterday.net) isinya adalah semua tulisan/write up saya selama saya menjadi BUG Hunter.
+*Website ini menggunakan Front-end [Gatsbyjs](https://gatsbyjs.com) yang di deploy ke Vercel*
 
-Beberapa penghargaan yang saya dapatkan berupa Sertifikat, Hall Of Fame, dan berupa Uang *(ada sebagian yang tidak bisa saya publikasikan karena alasan Private Bounty)*
+Beberapa penghargaan yang saya dapatkan berupa Sertifikat, Hall Of Fame, dan berupa Uang
 
 * E-Sertifikat Voluntary Vulnerability Disclosure Program dari Badan Siber dan Sandi Negara yang valid dan sudah di tandatangani secara elektronik
 ![](https://buayalaut.co/images/sertif.jpg)
