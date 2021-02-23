@@ -1,5 +1,5 @@
 ---
-title: SQL Injection at Subdomain website Palang Merah Indonesia penugasan.pmi.or.id - BUG Fixed by Developer
+title: SQL Injection at penugasan.pmi.or.id - BUG Fixed by Developer
 date: 2021-02-21
 ---
 
