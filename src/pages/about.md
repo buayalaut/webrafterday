@@ -1,10 +1,11 @@
 ---
 title: About Me
-description: test
 ---
-Halo, saya adalah seorang Mahasiswa yang mempunyai ketertarikan di bidang Cyber Security dan Website Security Pentesting dari tahun 2017 hingga sekarang. website [rafterday.net](https://rafterday.net) isinya adalah semua tulisan/write up saya selama saya menjadi BUG Hunter.
+[Linkedin](https://linkedin.com/in/dandyrafliansyah) [Telegram](https://t.me/dandyrfl) [Email](mailto:dandyrafliansyah40@gmail.com)
 
-*Website ini Front-end nya 100% [Gatsbyjs](https://gatsbyjs.com) yang di deploy ke [Vercel](https://vercel.com)*
+Halo, saya adalah seorang Mahasiswa yang mempunyai ketertarikan di bidang Cyber Security dan Website Security Pentesting, website [rafterday.net](https://rafterday.net) isinya adalah semua tulisan/write up saya selama saya menjadi BUG Hunter.
+
+*Website ini Front-end nya 100% menggunakan [Gatsbyjs](https://gatsbyjs.com) yang di deploy ke [Vercel](https://vercel.com)*
 
 Beberapa penghargaan yang saya dapatkan berupa Sertifikat, Hall Of Fame, dan berupa Uang
 
