@@ -1,5 +1,6 @@
 ---
 title: About Me
+description: test
 ---
 Halo, saya adalah seorang Mahasiswa yang mempunyai ketertarikan di bidang Cyber Security dan Website Security Pentesting dari tahun 2017 hingga sekarang. website [rafterday.net](https://rafterday.net) isinya adalah semua tulisan/write up saya selama saya menjadi BUG Hunter.
 
