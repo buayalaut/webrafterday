@@ -1,5 +1,5 @@
 ---
-title: SQL Injection at Subdomain iconpln.co.id (Intercept Application Mobile)
+title: SQL Injection at Application PLN Mobile (Intercept Application Mobile)
 date: 2020-08-17
 ---
 
