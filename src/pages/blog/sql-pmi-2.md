@@ -4,6 +4,7 @@ date: 2021-02-21
 ---
 
 ![](https://buayalaut.co/files/logo-pmi.png)
+
 Halo,
 
 Kali ini saya ingin menulis Write Up BUG SQL Injection di [penugasan.pmi.or.id](https://penugasan.pmi.or.id)
