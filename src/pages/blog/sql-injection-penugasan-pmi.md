@@ -1,6 +1,6 @@
 ---
 title: SQL Injection at Subdomain pmi.or.id - BUG Fixed by Developer
-date: 2021-02-03
+date: 2021-02-21
 ---
 
 Halo
