@@ -13,7 +13,26 @@ Seperti biasa saya melakukan scan Subdomain di website [api.hackertarget.com](ht
 ## Point Inject
 
 Point inject berada di kolom Provinsi, Kab/kota
-![](https://buayalaut.co/files/bumn/2021-02-25 17_09_50-Greenshot.png)
+![](https://buayalaut.co/files/bumn/bumn1.png)
 
 Berikut request URL dan Post data nya
-![](https://buayalaut.co/files/bumn/2021-02-25 17_14_27-Greenshot.png)
+![](https://buayalaut.co/files/bumn/bumn2.png)
+
+Respons request url nya
+![](https://buayalaut.co/files/bumn/bumn3.png)
+
+___
+
+Hasil scan di SQL Map
+![](https://buayalaut.co/files/bumn/bumn4.png)
+
+Berikut database management system usernya
+![](https://buayalaut.co/files/bumn/bumn5.png)
+
+___
+
+## Timeline Report
+
+- 02 Oktober 2020 = Mengirimkan laporan ke bantuan70@bssn.go.id
+
+- 11 Februari 2021 = Mengirimkan laporan ke kbumn.ri@bumn.go.id (No respons)
