@@ -3,11 +3,9 @@ title: About Me
 ---
 [Linkedin](https://linkedin.com/in/dandyrafliansyah) [Telegram](https://t.me/dandyrfl) [Email](mailto:dandyrafliansyah40@gmail.com)
 
-Halo, saya adalah seorang Mahasiswa yang mempunyai ketertarikan di bidang Cyber Security dan Website Security Pentesting, website [rafterday.net](https://rafterday.net) isinya adalah semua tulisan/write up saya selama saya menjadi BUG Hunter.
+Halo, saya adalah seorang Mahasiswa yang mempunyai ketertarikan di bidang Cyber Security dan Website Security Pentesting. website [rafterday.net](https://rafterday.net) isinya adalah semua tulisan/write up saya selama saya menjadi BUG Hunter.
 
-*Website ini Front-end nya 100% menggunakan [Gatsbyjs](https://gatsbyjs.com) yang di deploy ke [Vercel](https://vercel.com)*
-
-Beberapa penghargaan yang saya dapatkan berupa Sertifikat, Hall Of Fame, dan berupa Uang
+Beberapa reward yang saya dapatkan saat menjadi BUG Hunter
 
 * E-Sertifikat Voluntary Vulnerability Disclosure Program dari Badan Siber dan Sandi Negara yang valid dan sudah di tandatangani secara elektronik
 ![](https://buayalaut.co/images/sertif.jpg)
@@ -23,7 +21,7 @@ Beberapa penghargaan yang saya dapatkan berupa Sertifikat, Hall Of Fame, dan ber
 
 ___
 
-Website pribadi saya ada di [buayalaut.co](https://buayalaut.co) dan [dandyrafli.us](http://dandyrafli.us)
+Website pribadi saya ada di [buayalaut.co](https://buayalaut.co)
 
 Kontak saya ada di bawah ini
 - [Linkedin](https://linkedin.com/in/dandyrafliansyah) [Telegram](https://t.me/dandyrfl) [Email](mailto:dandyrafliansyah40@gmail.com)
