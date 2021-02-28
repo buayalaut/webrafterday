@@ -3,7 +3,7 @@ title: SQL Injection at Subdomain dominos.co.id - Hall Of Fame
 date: 2021-02-03
 ---
 
-![](https://buayalaut.co/files/Screenshot_109.png)
+![](https://miro.medium.com/max/24000/1*WfLsELjULT1AthOISw1OKg.png)
 
 Halo, kali ini saya ingin membagikan write up sederhana SQL Injection di [bi.dominos.co.id](https://bi.dominos.co.id) tepatnya pada form login
 
