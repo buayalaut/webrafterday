@@ -5,10 +5,9 @@ import SEO from "../components/seo"
 
 const NotFoundPage = () => (
   <DefaultLayout>
-  <meta http-equiv="REFRESH" content="5;url=https://rafterday.net">
     <SEO title="Not Found" />  
   <h1>-</h1>
-    <p>why u see this messages? u will redirect in 5 second</p>
+    <p>why u see this message? back to home</p>
   </DefaultLayout>
 )
 
