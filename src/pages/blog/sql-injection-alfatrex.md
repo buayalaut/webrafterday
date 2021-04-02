@@ -13,28 +13,28 @@ Oke langsung aja ya
 ___
 
 Penemuan ini awalnya bermula dari saya iseng-iseng mengunjungi web https://alfatrex.id melalui chrome. Lalu saya mencoba register pada web tersebut
-![](https://buayalaut.co/alfatrex/000006.png)
+![](https://competent-cori-57d622.netlify.app/alfatrex/000006.png)
 
 Lalu point inject Vulnerability nya terdapat di kolom kecamatan
-![](https://buayalaut.co/alfatrex/000007.png)
+![](https://competent-cori-57d622.netlify.app/alfatrex/000007.png)
 
 mengapa demikian? karena ketika saya memilih kecamatan A maka di kolom kode pos akan menampilkan data-data kode pos dari kecamatan A.
 
 Selanjutnya saya membuka inspect element > network guna untuk merekam semua request headers dari web yang saya buka. Berikut request url yang saya dapatkan
-![](https://buayalaut.co/alfatrex/000008.png)
+![](https://competent-cori-57d622.netlify.app/alfatrex/000008.png)
 
 Selanjutnya saya melakukan injeksi di parameter kecamatan dengan single quote, maka responsnya code error 500
-![](https://buayalaut.co/alfatrex/000009.png)
+![](https://competent-cori-57d622.netlify.app/alfatrex/000009.png)
 
 Dan ketika menambahkan string balance -- - menampilkan code 200, saya dapat simpulkan ini vulnerability terhadap SQL Injection
 
 ___
 
 Selanjutnya saya melakukan scan di SQL Map, dan hasilnya saya mendapatkan 21 database
-![](https://buayalaut.co/alfatrex/000010.png)
+![](https://competent-cori-57d622.netlify.app/alfatrex/000010.png)
 
 Dan 67 users dalam database management systemnya
-![](https://buayalaut.co/alfatrex/000011.png)
+![](https://competent-cori-57d622.netlify.app/alfatrex/000011.png)
 
 ___
 
