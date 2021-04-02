@@ -10,18 +10,18 @@ Kali ini saya ingin menulis write up SQLi di subdomain website indonesiaeximbank
 ___
 
 Vulnerability ini terletak pada kolom Provinsi, ketika saya select Provinsi DKI Jakarta, maka di kolom Kab/kota menampilkan data-data dari Provinsi DKI Jakarta
-![](https://buayalaut.co/eximbank/Screenshot_4.png)
+![](https://competent-cori-57d622.netlify.app/eximbank/Screenshot_4.png)
 
 Berikut request headers yang saya dapatkan ketika saya memilih negara
 Indonesia, dan saya mendapatkan Request URL nya yaitu [GET]
 ![](https://buayalaut.co/eximbank/Greenshot.png)
 
 Lalu saya mencoba mengakses Request URL tersebut, berikut respons nya
-![](https://buayalaut.co/eximbank/000002.png)
+![](https://competent-cori-57d622.netlify.app/eximbank/000002.png)
 
 Lalu saya melakukan check single quote pada parameter region_type, dan
 respons nya menampilkan `http code, error 500`
-![](https://buayalaut.co/eximbank/000003.png)
+![](https://competent-cori-57d622.netlify.app/eximbank/000003.png)
 
 Saya berpikir ini vulnerable terhadap SQL Injection, sebab ketika melakukan
 input single quote, respons web adalah http error 500.
@@ -38,10 +38,10 @@ sqlmap -u "https://********.indonesiaeximbank.go.id/api/regions/search?region_ty
 ```
 
 Maka hasil scan nya adalah saya mendapatkan 2 database
-![](https://buayalaut.co/eximbank/000004.png)
+![](https://competent-cori-57d622.netlify.app/eximbank/000004.png)
 
 Dan 2 users nya adalah
-![](https://buayalaut.co/eximbank/000005.png)
+![](https://competent-cori-57d622.netlify.app/eximbank/000005.png)
 
 ___
 
