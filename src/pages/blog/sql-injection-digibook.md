@@ -1,5 +1,5 @@
 ---
-title: SQL Injection at Website digibook.id
+title: SQL Injection at digibook.id
 date: 2021-03-31
 ---
 
