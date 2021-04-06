@@ -22,10 +22,10 @@ Berikut request url yang saya dapatkan setelah mencoba untuk merekam request hea
 ___
 
 Berikut database yang saya dapatkan ketika melakukan scan di SQL Map
-![](https://competent-cori-57d622.netlify.app/sidomuncul/Screenshot_24.png)
+![](https://competent-cori-57d622.netlify.app/sidomuncul/000015.png)
 
 Dan users nya adalah
-![](https://competent-cori-57d622.netlify.app/sidomuncul/Screenshot_25.png)
+![](https://competent-cori-57d622.netlify.app/sidomuncul/000016.png)
 
 ___
 
