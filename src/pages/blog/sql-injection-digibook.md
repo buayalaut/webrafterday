@@ -10,7 +10,7 @@ Halo,
 Kali ini saya ingin menulis write up SQL Injection di website digibook.id
 
 apasih digibook itu? 
-Digibook Promotion adalah sebuah tempat dimana kamu bisa merealisasikan imajinasimu dengan barang-barang promosi terkini dan uptodate. Kami menawarkan platform online untuk memenuhi segala kebutuhan promosi kamu, baik untuk kebutuhan branding, merchandise, printing dan jasa digital marketing. - *Dikutip dari ![](https://digibook.id/tentang/)*
+Digibook Promotion adalah sebuah tempat dimana kamu bisa merealisasikan imajinasimu dengan barang-barang promosi terkini dan uptodate. Kami menawarkan platform online untuk memenuhi segala kebutuhan promosi kamu, baik untuk kebutuhan branding, merchandise, printing dan jasa digital marketing. - *Dikutip dari [https://digibook.id/tentang/](https://digibook.id/tentang/)*
 
 ___
 
