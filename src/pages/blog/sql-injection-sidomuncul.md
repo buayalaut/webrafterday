@@ -5,6 +5,7 @@ date: 2021-02-26
 
 ![](https://competent-cori-57d622.netlify.app/sidomuncul/Screenshot_20.png)
 Halo, kali ini saya ingin menulis write up SQL Injection di subdomain website sidomuncul.co.id
+
 *Sido Muncul adalah produsen jamu dan obat herbal modern dengan pangsa pasar terbesar di Indonesia. Sido Muncul adalah produsen Tolak Angin*
 
 ___
