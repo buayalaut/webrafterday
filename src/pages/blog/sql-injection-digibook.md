@@ -52,5 +52,6 @@ Timeline report
 ![](https://competent-cori-57d622.netlify.app/digibook/IMG_20210404_114849.jpg)
 
 - BUG Fixed by Developer
+![](https://competent-cori-57d622.netlify.app/digibook/Screenshot_29.png)
 
 
