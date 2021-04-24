@@ -21,7 +21,7 @@ Beberapa reward yang saya dapatkan saat menjadi BUG Hunter
 
 ___
 
-Website pribadi saya ada di [buayalaut.co](https://buayalaut.co)
+Website pribadi saya ada di [buayalaut.co](https://buayalaut.co), atau bisa email ke [dandy@buayalaut.co](mailto:dandy@buayalaut.co)
 
 Kontak saya ada di bawah ini
 - [Linkedin](https://linkedin.com/in/dandyrafliansyah) [Telegram](https://t.me/dandyrfl) [Email](mailto:dandyrafliansyah40@gmail.com)
