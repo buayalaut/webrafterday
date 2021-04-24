@@ -1,5 +1,5 @@
 ---
-title: Information Source Code Disclosure via Directory .git - LSP BPJS Kesehatan
+title: SQL Injection at Application Korlantas POLRI
 date: 2021-04-13
 ---
 
