@@ -25,7 +25,7 @@ Post data
 ![](https://competent-cori-57d622.netlify.app/files/Screenshot_126.png)
 
 Dan saya mencoba menginjeksinya secara manual, dan mendapatkan order by error di 27
-![](https://buayalaut.co/files/Screenshot_127.png)
+![](https://competent-cori-57d622.netlify.app/files/Screenshot_127.png)
 
 ___
 
