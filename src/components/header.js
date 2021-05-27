@@ -14,6 +14,12 @@ const Header = ({ avatar }) => (
           </span>
             </Link>
           </div>
+          <div>
+            <Link to="https://trolling-system.blogspot.com">
+              <span>Blog
+          </span>
+            </Link>
+          </div>
         ) : (
           <div>
             <Link to="/">
