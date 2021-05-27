@@ -1,9 +1,9 @@
 ---
 title: About Me
 ---
-[Linkedin](https://linkedin.com/in/dandyrafliansyah) [Telegram](https://t.me/dandyrfl) [Email](mailto:dandyrafliansyah40@gmail.com)
+[Linkedin](https://linkedin.com/in/dandyrafliansyah) [Telegram](https://t.me/dandyrfl) [Email](mailto:dandy@buayalaut.co)
 
-Halo, saya adalah seorang Mahasiswa yang mempunyai ketertarikan di bidang Cyber Security dan Website Security Pentesting. website [rafterday.net](https://rafterday.net) isinya adalah semua tulisan/write up saya selama saya menjadi BUG Hunter.
+Halo, saya Dandy Rafliansyah seorang Mahasiswa yang mempunyai ketertarikan di bidang Cyber Security dan Website Security Pentesting. website [rafterday.net](https://rafterday.net) isinya adalah semua tulisan/write up saya selama saya menjadi BUG Hunter.
 
 Beberapa reward yang saya dapatkan saat menjadi BUG Hunter
 
@@ -21,7 +21,7 @@ Beberapa reward yang saya dapatkan saat menjadi BUG Hunter
 
 ___
 
-Website pribadi saya ada di [buayalaut.co](https://buayalaut.co)
+Blog lainnya saya ada di [trolling-system.blogspot.com](https://trolling-system.blogspot.com)
 
 Kontak saya ada di bawah ini
-- [Linkedin](https://linkedin.com/in/dandyrafliansyah) [Telegram](https://t.me/dandyrfl) [Email](mailto:dandyrafliansyah40@gmail.com)
+- [Linkedin](https://linkedin.com/in/dandyrafliansyah) [Telegram](https://t.me/dandyrfl) [Email](mailto:dandy@buayalaut.co)
