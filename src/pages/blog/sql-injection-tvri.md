@@ -54,7 +54,7 @@ ___
 * 26 Juni 2020 = mengirim laporan via email bantuan70@bssn.go.id + mengirimkan data diri beserta nomor WhatsApp
 
 * 13 Juli 2020 = IT TVRI Pusat Jakarta menghubungi saya melalui WhatsApp & BUG Di Proses Patch
-![](https://competent-cori-57d622.netlify.app/files/Greenshot.png)
+![](https://cdn.buayalaut.co/files/Greenshot.png)
 
 * 24 September 2020 = BSSN Mengirimkan Sertifikat Apresiasi
 
