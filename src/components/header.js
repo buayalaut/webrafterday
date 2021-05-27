@@ -15,7 +15,7 @@ const Header = ({ avatar }) => (
             </Link>
           </div>
           <div>
-            <Link to="https://trolling-system.blogspot.com">
+            <Link to="/blog/">
               <span>Blog
           </span>
             </Link>
