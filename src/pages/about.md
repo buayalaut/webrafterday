@@ -8,20 +8,18 @@ Halo, saya Dandy Rafliansyah seorang Mahasiswa yang mempunyai ketertarikan di bi
 Beberapa reward yang saya dapatkan saat menjadi BUG Hunter
 
 * E-Sertifikat Voluntary Vulnerability Disclosure Program dari Badan Siber dan Sandi Negara yang valid dan sudah di tandatangani secara elektronik
-![](https://competent-cori-57d622.netlify.app/images/sertif.jpg)
+![](https://cdn.buayalaut.co/images/sertif.jpg)
 
 * Reward berupa uang karena telah melaporkan kerentanan SQL Injection pada web API salah satu akun Bot di Line
-![](https://competent-cori-57d622.netlify.app/images/bot.jpg)
+![](https://cdn.buayalaut.co/images/bot.jpg)
 
 * Reward berupa uang karena telah melaporkan kerentanan SQL Injection pada web API salah satu Aplikasi di Android yang sudah di download lebih dari 10 Juta orang
-![](https://competent-cori-57d622.netlify.app/images/apk.jpg)
+![](https://cdn.buayalaut.co/images/apk.jpg)
 
 * Hall Of Fame Domino's Pizza Responsible Disclosure, karena telah melaporkan kerentanan SQL Injection pada website Domino's Pizza. (Dandy Rafliansyah) - [Acknowledgments](https://dominos.responsibledisclosure.com/hc/en-us/articles/360001378594-Acknowledgments)
-![](https://competent-cori-57d622.netlify.app/files/Screenshot_108.png)
+![](https://cdn.buayalaut.co/files/Screenshot_108.png)
 
 ___
-
-Blog lainnya saya ada di [trolling-system.blogspot.com](https://trolling-system.blogspot.com)
 
 Kontak saya ada di bawah ini
 - [Linkedin](https://linkedin.com/in/dandyrafliansyah) [Telegram](https://t.me/dandyrfl) [Email](mailto:dandy@buayalaut.co)
