@@ -14,12 +14,6 @@ const Header = ({ avatar }) => (
           </span>
             </Link>
           </div>
-          <div>
-            <Link to="/blog/">
-              <span>Blog
-          </span>
-            </Link>
-          </div>
         ) : (
           <div>
             <Link to="/">
