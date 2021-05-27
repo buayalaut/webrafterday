@@ -45,4 +45,4 @@ dan ini tablenya, ada 34 table
 
 Sekian write up sederhana dari saya ini, apabila ada salah dalam penulisan kata mohon dikoreksi, terima kasih sudah berkunjung :D
 
-Artikel ini juga saya post di [Medium](https://medium.com/@rafterday) Saya
+Artikel ini juga saya post di [Medium](https://medium.com/@dandyrafliansyah) Saya
