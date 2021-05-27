@@ -8,26 +8,26 @@ Halo, kali ini saya ingin membagikan write up bug SQL Injection di Subdomain bum
 ___
 
 Seperti biasa saya melakukan scan Subdomain di website [api.hackertarget.com](https://api.hackertarget.com)
-![](https://competent-cori-57d622.netlify.app/files/bumn/photo_2021-02-25_16-58-28.jpg)
+![](https://cdn.buayalaut.co/files/bumn/photo_2021-02-25_16-58-28.jpg)
 
 ## Point Inject
 
 Point inject berada di kolom Provinsi, Kab/kota
-![](https://competent-cori-57d622.netlify.app/files/bumn/bumn1.png)
+![](https://cdn.buayalaut.co/files/bumn/bumn1.png)
 
 Berikut request URL dan Post data nya
-![](https://competent-cori-57d622.netlify.app/files/bumn/bumn2.png)
+![](https://cdn.buayalaut.co/files/bumn/bumn2.png)
 
 Respons request url nya
-![](https://competent-cori-57d622.netlify.app/files/bumn/bumn3.png)
+![](https://cdn.buayalaut.co/files/bumn/bumn3.png)
 
 ___
 
 Hasil scan di SQL Map
-![](https://competent-cori-57d622.netlify.app/files/bumn/bumn4.png)
+![](https://cdn.buayalaut.co/files/bumn/bumn4.png)
 
 Berikut database management system usernya
-![](https://competent-cori-57d622.netlify.app/files/bumn/bumn5.png)
+![](https://cdn.buayalaut.co/files/bumn/bumn5.png)
 
 ___
 
