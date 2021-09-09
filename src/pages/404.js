@@ -7,7 +7,7 @@ const NotFoundPage = () => (
   <DefaultLayout>
     <SEO title="Not Found" />  
   <h1>-</h1>
-    <p>why u see this message? back to home</p>
+    <p>why u see this message? back to home ok</p>
   </DefaultLayout>
 )
 
