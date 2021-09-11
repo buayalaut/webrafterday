@@ -3,7 +3,7 @@ title: About Me
 ---
 [Linkedin](https://linkedin.com/in/dandyrafliansyah) [Telegram](https://t.me/dandyrfl) [Email](mailto:dandy@buayalaut.co)
 
-Halo saya Dandy Rafliansyah, saya seorang Mahasiswa dan sedang bekerja di Security & IT Infrastruktur di salah satu perusahaan yang berada di Jakarta Selatan. saya mempunyai ketertarikan di bidang Cyber Security dan Website Security Pentesting. website [rafterday.net](https://rafterday.net) isinya adalah semua tulisan/write up saya selama saya menjadi BUG Hunter.
+Halo saya Dandy Rafliansyah, saya seorang Mahasiswa dan sedang bekerja sebagai Security & IT Infrastruktur di salah satu perusahaan yang berada di Jakarta Selatan. saya mempunyai ketertarikan di bidang Cyber Security dan Website Security Pentesting. website [rafterday.net](https://rafterday.net) isinya adalah semua tulisan/write up saya selama saya menjadi BUG Hunter.
 
 Beberapa reward yang saya dapatkan saat menjadi BUG Hunter
 
